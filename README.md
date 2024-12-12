@@ -104,7 +104,7 @@ dict_print = dlsym(handle, "dict_print");
 
 dlclose(handle); // 사용 후 종료
 ```
-**4. 예제코드**
+**4. 예제코드**<br>
 "Static Library / 4. 예제코드"과 동일<br>
 **5. 빌드방법**
 ```bash
