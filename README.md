@@ -106,6 +106,7 @@ dlclose(handle); // 사용 후 종료
 ```
 **4. 예제코드**<br>
 "Static Library / 4. 예제코드"과 동일<br>
+<br>
 **5. 빌드방법**
 ```bash
 $ gcc -rdynamic -o main_dynamic main.c -ldl
